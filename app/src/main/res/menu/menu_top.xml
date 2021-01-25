@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+  >
+
+
+    <item
+    android:id="@+id/action_one"
+    android:icon="@drawable/ic_baseline_person_24"
+    app:showAsAction="always"
+    android:title="@string/profile"/>
+
+    <item
+        android:id="@+id/action_five"
+        app:showAsAction="never"
+        android:title="@string/connection"/>
+
+    <item
+        android:id="@+id/action_two"
+        app:showAsAction="never"
+        android:title="@string/help"/>
+
+    <item
+        android:id="@+id/action_three"
+        app:showAsAction="never"
+        android:title="@string/info"/>
+
+    <item
+        android:id="@+id/action_four"
+        app:showAsAction="never"
+        android:title="@string/signout"/>
+
+
+
+</menu>

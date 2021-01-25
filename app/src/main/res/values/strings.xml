@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">SenseAlert2.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_con">Connection</string>
+
+
+    <string name="fstext" translatable="false">Let\'s Start</string>
+    <string name="fstext2" translatable="false">And One more</string>
+    <string name="fstext3" translatable="false">We\'re almost done</string>
+    <string name="fsbutton1" translatable="false">Login</string>
+    <string name="fsbutton2" translatable="false">Signup</string>
+    <string name="fubar" translatable="false">fubar</string>
+    <string name="fubar2" translatable="false">fubar</string>
+    <string name="fubar3" translatable="false">fubar</string>
+    <string name="phint" translatable="false">Password</string>
+    <string name="ehint" translatable="false">Email</string>
+    <string name="fhint" translatable="false">Fist Name</string>
+    <string name="lhint" translatable="false">Last Name</string>
+    <string name="tdate">Temp Date</string>
+    <string name="temp">Temperature</string>
+    <string name="Mot">Motion</string>
+    <string name="tmenu">Menu</string>
+    <string name="next">Next</string>
+    <!-- Disconnected-->
+    <string name="disconnected">Disconnected</string>
+    <string name="car_model">\t\t\t\t\tCar Manufacturer</string>
+    <string name="car_model_name">\t\t\t\t\tCar Model Name</string>
+    <string name="device_number">\t\t\t\t\tDevice Number</string>
+    <string name="connect_now">Connect Now</string>
+    <string name="save_data">Save Data</string>
+
+    <!-- Connection-->
+    <string name="searching">Searching…</string>
+    <string name="connection">Connection</string>
+
+    <string name="scan">Scanning for Given Device </string>
+
+    <!-- Connected-->
+    <string name="connected">Connected</string>
+    <string name="disconnect_now">Disconnect Now</string>
+    <string name="device_name">Device Name:</string>
+    <string name="Car">BMW X6</string>
+
+    <!-- Profile-->
+    <string name="temperature">Temperature</string>
+    <string name="celsius">20\u00B0</string>
+    <string name="previous_data">Previous Data</string>
+    <string name="last_temp">Last Temp</string>
+    <string name="see_more">See more +</string>
+    <string name="profile">Profile</string>
+    <string name="profile_info">Profile Information</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="display_number">905-000-1111</string>
+    <string name="user_question">Do you have a:</string>
+    <string name="child">Child or Infant</string>
+    <string name="pet">Pet</string>
+    <string name="other">Other</string>
+    <string name="submit">Submit</string>
+    <string name="close">X</string>
+
+
+    <!-- Temperature-->
+    <string name="comfortable">Comfortable</string>
+    <string name="compfort_temp">24\u00B0</string>
+
+    <!-- Main Menu-->
+    <string name="user_name">John Doe</string>
+    <string name="signout">SignOut</string>
+
+    <!-- SharedPreferences-->
+    <string name="keep_login">Remember My Login Information</string>
+    <string name="checkbox">com.example.sensealert20.checkbox</string>
+    <string name="email">com.example.sensealert20.email</string>
+    <string name="password">com.example.sensealert20.password</string>
+
+    <!-- Help-->
+    <string name="help">Help</string>
+    <string name="texview21">This app is designed for the purpose of alerting the user of the rising hot temperatures insided their car.
+        So that actions can be taken by the user if they have forgotten/left their child or pet in the car. The app is only responsible for sending alerts to the user about the hot temeratur inside their vehicles.
+        It is the sole responsibility of the user to take heed of the warning given by the app, and act quickly to save their child or pet from the heat. The reason our team decided to create this app is because the
+        number of children and pets who have lost their lives in vehicular heatstroke deaths has been increasing every year according to https://www.carprousa.com/Reminder-Kids--Pets-Left-In-Hot-Cars-Are-Deadly/a/144.
+        We hope that this app can save the lives of many childrens and pets as well as make a difference in the lives of parents/pet owners by saving them from making a mistake they might regret for the rest of their lives.</string>
+
+
+    <!-- Info-->
+    <string name="info">Info</string>
+    <string name="texview22">Some of the questions users may have:
+
+Having this app make it safe to leave child/pets inside car?
+-No, you should Never leave a child or pet in an unattended car
+ even with the windows down or part way down
+ source: https://www.carprousa.com/Reminder-Kids--Pets-Left-In-Hot-Cars-Are-Deadly/a/144
+
+Having any difficulties connecting the sensor with this
+app?
+-Try restarting the app or try to reboot the sensor.
+
+At what temperature does it become dangerous for children?
+- When the temperature reaches 40 Degree Celcius it leads tp heatstrokes
+
+How quickly does the temperature rises inside car with regards to time?
+-10 minutes = 19 degree increase
+ 20 minutes = 29 degree increase
+ 30 minutes = 34 degree increase
+ 1 hour     = 43 degree increase
+ over 1 hour= 45 to 55 degree increase
+source: https://www.carprousa.com/Reminder-Kids--Pets-Left-In-Hot-Cars-Are-Deadly/a/144
+
+If you have any questions regarding this app feel free contact
+our team  at n01334306@humbermail.ca </string>
+
+</resources>
