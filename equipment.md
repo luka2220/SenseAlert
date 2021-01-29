@@ -1,9 +1,9 @@
 # SenseAlert
 
-Luka Piplica : - PIR motion sensor, raspberry pi, functioning prototype
+Luka Piplica : - PIR motion sensor, raspberry pi
 
-Ravi Pandya : complete parts kit, android studio for app development.
+Ravi Pandya : complete parts kit
 
 Sahil Sahil : working on database connection between raspberry pi and app.
 
-Tyler Callender : Ds18b20 Temperature sensors, Android Studio.
+Tyler Callender : Ds18b20 Temperature sensors
