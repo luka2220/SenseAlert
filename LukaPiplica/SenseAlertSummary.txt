@@ -3,4 +3,4 @@ leaving them unattended like this results in them losing their lives due to heat
 our device will detect if someone is in the car as well as measure the temperature and notify the user through the app. 
 This reminds the user if they have forgotten anyone inside the vehicle if so then they can promptly take action to save lives.
 
-Video link:   
+Video link:  https://youtu.be/c-fiLLXt9jw
