@@ -1,5 +1,5 @@
-Project Name: Sense Alert
+Project Name:Sense Alert
 
-Team Members: Luka Piplica, Ravi Pandya, Sahil Sahil, Tyler Callender
+Team Members:Luka Piplica, Ravi Pandya, Sahil Sahil, Tyler Callender
 
 Project Category: Consumer
